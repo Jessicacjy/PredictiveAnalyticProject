@@ -1,0 +1,53 @@
+State Code,Region,Sub-Region,medianincome
+AL,South,East South Central,42934
+AK,West,Pacific,69014
+AZ,West,Mountain,50752
+AR,South,West South Central,40149
+CA,West,Pacific,61632
+CO,West,Mountain,57685
+CT,Northeast,New England,69243
+DE,South,South Atlantic,59317
+FL,South,South Atlantic,61835
+GA,South,South Atlantic,47827
+HI,West,Pacific,49736
+ID,West,Mountain,67116
+IL,Midwest,East North Central,46890
+IN,Midwest,East North Central,56576
+IA,Midwest,West North Central,48393
+KS,Midwest,West North Central,50451
+KY,South,East South Central,50594
+LA,South,West South Central,42248
+ME,Northeast,New England,44086
+MD,South,South Atlantic,47898
+MA,Northeast,New England,72419
+MI,Midwest,East North Central,65981
+MN,Midwest,West North Central,48669
+MS,South,East South Central,58476
+MO,Midwest,West North Central,38718
+MT,West,Mountain,47202
+NE,Midwest,West North Central,45324
+NV,West,Mountain,50695
+NH,Northeast,New England,55553
+NJ,Northeast,Middle Atlantic,64664
+NM,West,Mountain,71180
+NY,Northeast,Middle Atlantic,44631
+NC,South,South Atlantic,56951
+ND,Midwest,West North Central,46291
+OH,Midwest,East North Central,49415
+OK,South,West South Central,48071
+OR,West,Pacific,44287
+PA,Northeast,Middle Atlantic,49850
+RI,Northeast,New England,51651
+SC,South,South Atlantic,55975
+SD,Midwest,West North Central,44587
+TN,South,East South Central,48010
+TX,South,West South Central,43989
+UT,West,Mountain,50920
+VT,Northeast,New England,57783
+VA,South,South Atlantic,53422
+WA,West,Pacific,63302
+WV,South,South Atlantic,58890
+WI,Midwest,East North Central,39550
+WY,West,Mountain,52374
+AA,Sparse,Sparse,56380
+,,,19122
